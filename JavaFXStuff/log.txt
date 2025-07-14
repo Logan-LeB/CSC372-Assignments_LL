@@ -1,0 +1,13 @@
+Background changed to random green!
+RGB: (87, 153, 115)
+Hex: #579973
+
+Current Date & Time: 2025-07-06 19:08:55
+
+Current Date & Time: 2025-07-06 19:08:56
+
+Current Date & Time: 2025-07-06 19:08:57
+
+Don't be greedy, you already have your random green.
+If you want another green, you have to run the program again.
+That's what the rules say.
